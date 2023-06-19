@@ -14,6 +14,11 @@ The solution is implemented using Python and TensorFlow. It consists of the foll
 - `train.py`: This file is used to train the U-Net model on the prepared dataset. It loads the training data, creates the model architecture, compiles the model, trains it on the data, evaluates its performance, and saves the trained model.
 - `inference.py`: This file is used to load a trained model and perform inference on new images. It takes an input image, preprocesses it, applies the trained model to generate ship predictions, and visualizes the results.
 
+Additionally, there are two Jupyter Notebook files:
+
+- Test task Winstars.ipynb: This notebook provides exploratory data analysis (EDA) on the Airbus Ship Detection dataset. It includes data visualization, statistical analysis, and insights into the characteristics of the images and ship masks. It also includes model creation and training.
+- Test task Winstars (OVP).ipynb: This notebook demonstrates the model training process using the old package versions, which is faster and allows you to evaluate the final result.
+
 ## Usage
 
 1. Install the required dependencies listed in the `requirements.txt` file.
