@@ -16,8 +16,8 @@ The solution is implemented using Python and TensorFlow. It consists of the foll
 
 Additionally, there are two Jupyter Notebook files:
 
-- Test task Winstars.ipynb: This notebook provides exploratory data analysis (EDA) on the Airbus Ship Detection dataset. It includes data visualization, statistical analysis, and insights into the characteristics of the images and ship masks. It also includes model creation and training.
-- Test task Winstars (OVP).ipynb: This notebook demonstrates the model training process using the old package versions, which is faster and allows you to evaluate the final result.
+- `test-task-Winstars.ipynb`: This notebook provides exploratory data analysis (EDA) on the Airbus Ship Detection dataset. It includes data visualization, statistical analysis, and insights into the characteristics of the images and ship masks. It also includes model creation and training.
+- `test-task-Winstars-ovp.ipynb.ipynb: This notebook demonstrates the model training process using the old package versions, which is faster and allows you to evaluate the final result.
 
 ## Usage
 
